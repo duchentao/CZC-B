@@ -1,0 +1,9 @@
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\bin\Debug\SimpleModbusUI.exe
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\bin\Debug\SimpleModbusUI.pdb
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.Form1.resources
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.Properties.Resources.resources
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.csproj.GenerateResource.cache
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.csproj.CoreCompileInputs.cache
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.exe
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.pdb
+F:\新建文件夹\new dll\SimpleModbusUI\SimpleModbusUI\obj\Debug\SimpleModbusUI.csprojAssemblyReference.cache
